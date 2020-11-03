@@ -35,7 +35,7 @@ def game():
          tk.Label(win,text='Draw').grid(row=5,column=0)
 
    
-
+   # hey
    def a1(i,j): 
       global x
       a=tk.Label(win,text=(f"    {x}   "),width=10)
